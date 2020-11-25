@@ -10,7 +10,6 @@ const Card = (props) => {
 
       <p>{props.card.full_meaning}</p>
 
-      <p>{props.card.summary}</p>
     </div>
   );
 };

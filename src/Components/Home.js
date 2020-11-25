@@ -52,7 +52,7 @@ const Home = () => {
         In your reading, you will draw 6 cards to comprise a traditional Celtic Cross formation. 
       </p>
       <p>
-        Each card depicts a figure or scene that represents a universal concept. By considering the meaning of the card within the concext of our own lives, we  gain insight on issues that matter to us.</p>
+        Each card depicts a scene which represents a specific concept or dynamic. By considering the meaning of the card within the concext of our own lives, we  gain insight on issues that matter to us.</p>
       <p>
         It's important that the person who the reading is for clicks the button to draw the cards. In a normal reading, the participant shuffles the cards beforehand - in each case you are imparting an influence that makes the reading uniquely yours. 
         </p>
